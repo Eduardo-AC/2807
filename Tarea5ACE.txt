@@ -1,0 +1,3 @@
+Estructura en la que tiene relación la infraestructura y los recursos humanos, 
+las actividades y las acciones que permiten regular las actividades, con el 
+objetivo de que se alcancen las metas y el centro de cómputo funcione correctamente.
